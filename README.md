@@ -25,6 +25,7 @@ __Algorithm__:
 6. Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
  __Output__:
+<img width="1058" height="749" alt="image" src="https://github.com/user-attachments/assets/75cb30ad-6442-49c2-a18f-7762ca2d2bc7" />
 
 
  __Result__:
