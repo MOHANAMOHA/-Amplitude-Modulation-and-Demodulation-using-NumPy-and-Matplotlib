@@ -29,5 +29,7 @@ __Algorithm__:
 
 
  __Result__:
+ 
+ The message signal, carrier signal, and amplitude modulated (AM) signal will be displayed in separate plots. Thus, AM is implemented using numPy and Matplotlib.
 
 
